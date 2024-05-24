@@ -9,4 +9,4 @@ https://github.com/Mihas512/YaPracticum_Projects
 
 
 Статус: открыт для предложений.
-Связаться: https://t.me/mihas512
+[Связаться:](https://t.me/mihas512)
