@@ -5,5 +5,8 @@
 Работа с базами данных: PostgreSQL.
 Построение дашбордов: Tableau.
 
+https://github.com/Mihas512/YaPracticum_Projects
+
+
 Статус: открыт для предложений.
 Связаться: https://t.me/mihas512
