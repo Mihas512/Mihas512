@@ -4,3 +4,6 @@
 Работаю с библиотеками Python: Pandas, Matplotlib, SkiPy, NumPy, Seaborn, Plotly.
 Работа с базами данных: PostgreSQL.
 Построение дашбордов: Tableau.
+
+Статус: открыт для предложений.
+Связаться: https://t.me/mihas512
